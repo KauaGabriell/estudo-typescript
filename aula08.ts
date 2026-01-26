@@ -44,3 +44,5 @@ let produto: Produto = {
   preco: 2500,
   // descricao não é obrigatória
 };
+
+export {};

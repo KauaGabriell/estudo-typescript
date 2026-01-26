@@ -80,3 +80,5 @@ optionalText = 'Olá'; // OK!
 let maxAttempts: number = 3; // Mais claro que maxAttempts: number | null
 let userName: string = 'Anônimo'; // Mais claro que userName: string | null
 let items: string[] = []; // Array vazio é melhor que null
+
+export {};
