@@ -36,3 +36,5 @@ interface Student extends Person {
   // name: string;  <- herdado de Person
   age: number;
 }
+
+export {};
